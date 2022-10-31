@@ -21,5 +21,5 @@ asp.net練習
 
 
 ## 參考來源
-[理財工程師 Mars](https://blog.hungwin.com.tw/)
-[使用ASP.NET MVC 實作購物網站](https://ithelp.ithome.com.tw/users/20091762/ironman/971?page=1)
+* [理財工程師 Mars](https://blog.hungwin.com.tw/)
+* [使用ASP.NET MVC 實作購物網站](https://ithelp.ithome.com.tw/users/20091762/ironman/971?page=1)
